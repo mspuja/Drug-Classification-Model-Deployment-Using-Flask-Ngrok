@@ -40,7 +40,7 @@ After that, we will upload both the files ‘model.pkl’ and ‘templates.zip�
 
 After successfully uploading the files we can go to check the files section for confirmation. It will look like this
 
-![1](https://user-images.githubusercontent.com/116178688/198877483-a697f127-82d4-4b04-9c9c-534fcbc8fbf5.png)![1](https://user-images.githubusercontent.com/116178688/198877486-cafde927-d848-4d94-b38c-ebca5e3a9a63.png)
+![1](https://user-images.githubusercontent.com/116178688/198877483-a697f127-82d4-4b04-9c9c-534fcbc8fbf5.png)
 
 As we have uploaded the zip file and therefore we have to unzip it.
 
