@@ -60,14 +60,18 @@ When we run the url we get an output as follows
 
 ![3](https://user-images.githubusercontent.com/116178688/198877666-2d06f6a2-23f0-4407-97f5-43814af2c09e.JPG)
 
+
 When we click on the ngrok.io file we will get directed to the webpage as follows in which we can feed the values and get the predictions.
 
+
 ![C-0](https://user-images.githubusercontent.com/116178688/198877685-0c51f626-e0fd-4dca-a140-038529b08d28.JPG)
+
 
 Hence, we finally deployed our Machine Learning Model using Google Colab successfully.
 
 
 Key Note:
+
 In IMG_1 and IMG_2 it shows the personal Authtoken for ngrok will be diiferent for each person.
 
 To get the personal Authtoken for ngrok one has to open an account on ngrok.com
