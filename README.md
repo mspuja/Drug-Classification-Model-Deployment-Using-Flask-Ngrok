@@ -26,7 +26,7 @@ Following that we will install ngrok via Apt.
 
 Then we connect Ngrok to Google Drive Account
 
-![IMG_1](https://user-images.githubusercontent.com/116178688/198878291-75be6471-36cc-4318-bc2e-7814da70cd0e.jpg)
+![IMG_1](https://user-images.githubusercontent.com/116178688/198879926-569e748e-8b7f-43e2-8231-2816eb7eac19.jpg
 
 Also we will install pyngrok from which ngrok will be imported.
 
@@ -50,9 +50,10 @@ After unzipping we see that a new directory is created in the files section with
 
 After that, we will import the necessary libraries and run the Flask app.
 
-Here, we will have to use the personal Authtoken for ngrok 
+Here, we will have to use the personal Authtoken for ngrok
 
-![IMG_2](https://user-images.githubusercontent.com/116178688/198878642-fb46fab6-b85b-40bd-a901-cdf1345ec210.jpg)
+![IMG_2](https://user-images.githubusercontent.com/116178688/198879965-7ed39935-da6c-43f9-afb7-3b13b1ab0278.jpg)
+
 
 After executing the cell we will get a url running http with ngrok.io which remains valid for 6hrs.
 
