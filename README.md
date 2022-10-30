@@ -16,7 +16,7 @@ Now we have the pickle file with the name ‘model.pkl’.
 
 Deployment Level :
 
-In the new python file first of all we have to mount our Google Drive Account.
+In the new python file first of all we have to mount our Google Drive Account with Google Colab.
 
 We will install the flask-ngrok using the following command
 
