@@ -9,7 +9,7 @@ A simple way to demo Flask apps from your machine. Makes your Flask apps running
 Compatability
 Python 3.6+ is required.
 
-# Machine Learning Model Building into The Google Colab
+# Machine Learning Model Building Into The Google Colab
 
 We are going to build model and deploy the machine learning model into the Google Colab.
 
