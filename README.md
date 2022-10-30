@@ -55,7 +55,7 @@ Here, we will have to use the personal Authtoken for ngrok
 ![IMG_2](https://user-images.githubusercontent.com/116178688/198879965-7ed39935-da6c-43f9-afb7-3b13b1ab0278.jpg)
 
 
-After executing the cell we will get a url running http with ngrok.io which remains valid for 6hrs.
+After executing the cell we will get a url which will be http with ngrok.io which remains valid for 6hrs.
 
 When we run the url we get an output as follows
 
@@ -74,7 +74,7 @@ Hence, we finally deployed our Machine Learning Model using Google Colab success
 
 Key Note:
 
-In IMG_1 and IMG_2 it shows the personal Authtoken for ngrok will be diiferent for each person.
+In IMG_1 and IMG_2 it shows the personal Authtoken for ngrok which will be diiferent for each person.
 
 To get the personal Authtoken for ngrok one has to open an account on ngrok.com
 
