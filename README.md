@@ -1,7 +1,8 @@
-# Drug-Classification-Model-Deployment-Using-Flask-Ngrok
+# Drug-Classification-Model-Deployment-Using-Flask-Ngrok.
+
 Drug Classification by Supervised Machine Learning Algorithm Random Forest Classifier and Deployment of The Model With Flask-Ngrok.
 
-What is Flask-Ngrok?
+# What is Flask-Ngrok?
 
 A simple way to demo Flask apps from your machine. Makes your Flask apps running on localhost available over the internet via the excellent ngrok tool.
 
@@ -14,7 +15,7 @@ First, we have to build a Machine Learning Model with Random Forest Classifier w
 
 Now we have the pickle file with the name ‘model.pkl’.
 
-Deployment Level :
+# Deployment Level :
 
 In the new python file first of all we have to mount Google Drive Account with Google Colab.
 
@@ -72,7 +73,7 @@ When we click on the ngrok.io file we will get directed to the webpage as follow
 Hence, we finally deployed our Machine Learning Model using Google Colab successfully.
 
 
-Key Note:
+# Key Note:
 
 In IMG_1 and IMG_2 it shows the personal Authtoken for ngrok which will be diiferent for each person.
 
