@@ -24,9 +24,9 @@ We will install the flask-ngrok using the following command
 
 Following that we will install ngrok via Apt.
 
-Then we connect Ngrok to Google Drive Account
+Then we connect Ngrok to Google Drive Account.
 
-![IMG_1](https://user-images.githubusercontent.com/116178688/198879926-569e748e-8b7f-43e2-8231-2816eb7eac19.jpg
+![IMG_1](https://user-images.githubusercontent.com/116178688/198880013-b94a0612-0c43-4a9c-87bf-7e2ebd52d335.jpg)
 
 Also we will install pyngrok from which ngrok will be imported.
 
