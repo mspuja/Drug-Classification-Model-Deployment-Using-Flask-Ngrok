@@ -65,7 +65,8 @@ When we run the url we get an output as follows
 When we click on the ngrok.io file we will get directed to the webpage as follows in which we can feed the values and get the predictions.
 
 
-![C-0](https://user-images.githubusercontent.com/116178688/198877685-0c51f626-e0fd-4dca-a140-038529b08d28.JPG)
+![C-0](https://user-images.githubusercontent.com/116178688/198880091-123c99d4-8fd8-4881-9a1e-f75664a55144.jpg)
+
 
 
 Hence, we finally deployed our Machine Learning Model using Google Colab successfully.
