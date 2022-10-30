@@ -1,7 +1,7 @@
 # Drug-Classification-Model-Deployment-Using-Flask-Ngrok
 Drug Classification by Supervised Machine Learning Algorithm Random Forest Classifier and Deployment of The Model With Flask-Ngrok.
 
-What is flask-ngrok?
+What is Flask-Ngrok?
 
 A simple way to demo Flask apps from your machine. Makes your Flask apps running on localhost available over the internet via the excellent ngrok tool.
 
